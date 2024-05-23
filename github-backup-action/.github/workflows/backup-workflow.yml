@@ -1,0 +1,31 @@
+name: Backup Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run backup
+        run: node action/index.js ${{ secrets.GITHUB_REPOSITORY_URL }}
+
+      - name: Archive backup
+        uses: actions/upload-artifact@v2
+        with:
+          name: backup
+          path: project-items.json

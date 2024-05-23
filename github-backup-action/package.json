@@ -1,0 +1,25 @@
+{
+  "name": "github-backup-action",
+  "version": "1.0.0",
+  "description": "GitHub Actions workflow to backup/export a GitHub project",
+  "main": "action/index.js",
+  "scripts": {
+    "test": "mocha tests/backup.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/github-backup-action.git"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.10.1",
+    "@octokit/graphql": "^8.1.1",
+    "@octokit/rest": "^20.1.1",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.1"
+  }
+}

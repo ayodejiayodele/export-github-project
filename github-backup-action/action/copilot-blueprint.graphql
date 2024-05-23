@@ -1,0 +1,2085 @@
+{
+  "data": {
+    "user": {
+      "projectV2": {
+        "id": "PVT_kwHOA8IS7s4Ah7za",
+        "items": {
+          "totalCount": 32,
+          "pageInfo": {
+            "startCursor": "MQ",
+            "endCursor": "MzI",
+            "hasNextPage": false
+          },
+          "nodes": [
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqdE",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/optimize/OP99.png)\n\nThe optimization of GitHub Copilot marks a significant stride in your technological evolution. As you celebrate this achievement, it's crucial to look back at the collective efforts that have led to a successful adoption. Engaging with the internal community has fostered widespread acceptance and usage, while the publication of case studies has showcased the remarkable improvements in your Developer Experience. Conducting user satisfaction surveys has given you valuable insights into user engagement and utility, guiding your path to refinement. Through diligent tracking, you've quantified the adoption and impact on development metrics, affirming the value brought by Copilot. Automation has streamlined Copilot’s integration, and your feedback has contributed to its continuous improvement. Now, it's time to review the return on investment (ROI) that these initiatives have generated, highlighting the tangible benefits of your efforts.\n\n## Checklist for establishing GitHub Copilot as a core tool\n\n- [ ] Achieve and maintain over 80% usage of GitHub Copilot among your developers.\n- [ ] Document the realized value and benefits GitHub Copilot brings to your workflows.\n- [ ] Integrate GitHub Copilot seamlessly into the everyday developer workflow.\n- [ ] Develop a plan for capturing and measuring the ease of adopting new features.\n\nYou're making exceptional progress! By reaching this stage, you're not just adopting a tool; you're shaping the future of how your team develops software. Your efforts in integrating GitHub Copilot deeply into your workflow are paving the way for more innovation and efficiency. Keep pushing the boundaries, and watch as GitHub Copilot becomes an indispensable part of your development process. You're doing fantastic work!\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:01Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "🎉 Celebrate your optimization success! Check out the optimized ROI",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Optimize",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-OP99",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt8E",
+              "databaseId": 63485889
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqdI",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/adopt/AD99.png)\n\nAs you reflect on the journey of adopting GitHub Copilot, it's time to celebrate the milestones achieved and the return on investment (ROI) realized. From gaining a deep understanding of Copilot's capabilities to mastering advanced tips and tricks, your team's proficiency has soared. You've not only benchmarked and improved usage but also established robust onboarding and training programs. The identification of champions has been pivotal in driving adoption. If you adopted Copilot Enterprise, it must have taken your productivity to new heights. Each step has contributed to a more efficient, knowledgeable, and satisfied development team, exemplifying a successful adoption with measurable benefits.\n\n## Checklist for advancing to the next stage\n\n- [ ] Ensure at least 80% of your users are actively using GitHub Copilot.\n- [ ] Monitor user activity over an average period of 28 days to gauge consistent engagement.\n- [ ] Implement strategies to maintain or increase user engagement over time.\n\nYou are doing an incredible job steering your team towards widespread adoption of GitHub Copilot! Achieving this level of engagement is a testament to your dedication and leadership. Keep up the momentum, and soon you'll see the remarkable impact of widespread Copilot adoption in enhancing productivity and creativity across your team. You're almost there!\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:01Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "🎉 Celebrate the results of your adoption! See the ROI you've achieved",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Adopt",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-AD99",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt8I",
+              "databaseId": 63485890
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqdM",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/adopt/AD06.png)\n\nIn the evolving landscape of software development, Copilot Enterprise emerges as a pivotal tool, reshaping the way your team approaches coding. This guide aims to ensure your team maximizes the benefits of Copilot Enterprise, a plan specifically designed for organizations using GitHub Enterprise Cloud. Here's a focused pathway to integrate this powerful AI-driven coding assistant into your workflow effectively.\n\n## Checklist\n\n- [ ] **Understand Copilot Enterprise**: Familiarize yourself with its features and the value it brings. Currently, it includes Copilot Chat and pull request summaries, which are in beta and subject to change.\n- [ ] **Eligibility and Access**: Ensure your organization has an active GitHub Copilot Business subscription and uses GitHub Enterprise Cloud. You can then nominate your organization for the Copilot Enterprise waitlist.\n- [ ] **Beta Participation**: If selected for the beta program, an administrator must enable Copilot Enterprise features for your organization.\n- [ ] **Budgeting and Costs**: Plan for the subscription cost, which is $39 per user per month, effective from February 2024.\n- [ ] **Training and Onboarding**: Develop a comprehensive plan for training your team on using Copilot Enterprise, focusing on its unique features like Copilot Chat.\n- [ ] **Feedback and Improvement**: Participate actively in the beta program, providing feedback to GitHub for potential improvements and staying updated on new features.\n\n## Useful resources\n\n- [GitHub Universe 2023 Announcements](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/#:~:text=,Thomas%20Dohmke%20November%208%2C%202023): Explore the latest updates on Copilot Enterprise and other AI-powered features announced by GitHub\n- [GitHub Universe 2023 opening keynote](https://www.youtube.com/watch?v=NrQkdDVupQE)\n- [GitHub Copilot: the AI pair programmer for today and tomorrow](https://www.youtube.com/watch?v=AAT4zCfzsHI)\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:01Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "🤖 Learn Copilot Enterprise to maximize the productivity at github.com",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Adopt",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-AD06",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "👨‍👦‍👦 All Users",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  },
+                  {
+                    "node": {
+                      "name": "🤖 Copilot Enterprise",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V4",
+                        "name": "Requirements"
+                      }
+                    },
+                    "cursor": "NQ"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NQ"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt8M",
+              "databaseId": 63485891
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqdQ",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/onboard/ON99.png)\n\nThe successful onboarding of GitHub Copilot marks a significant milestone in the journey toward more efficient, AI-powered coding practices. Celebrating this accomplishment not only recognizes the efforts of the team in adapting to new technology but also reinforces the value of the investment made. By reviewing the return on investment (ROI) achieved through GitHub Copilot's integration, you can highlight the tangible benefits, share success stories, and further motivate your team for continuous improvement and innovation.\n\n## Celebrate and make a final review!! - Reflecting and looking forward\n\nAs you embark on this retrospective journey, it's time to celebrate your achievements and envision an even brighter future with GitHub Copilot. Your leadership and foresight have initiated a transformative journey in your organization, and this reflection is a moment to recognize the milestones reached and plan for continued success.\n\n**Celebrating Milestones and Goal Achievement**: First, let’s reflect on the exciting goal you set - integrating GitHub Copilot with at least 10% of your developers within 90 days. How did your team embrace this challenge? Celebrate each developer who took the leap, every project that benefited from this integration, and the collective progress made. Your vision has set a powerful precedent for embracing innovation.\n\n**Assessing Value Realization and ROI**: Now, let’s delve into the impact of GitHub Copilot on your team. Has there been a noticeable improvement in coding efficiency and project timelines? How has the quality of work been enhanced? Your role in documenting these changes and the value they’ve brought is crucial. This is not just about numbers; it's about the stories of success, the challenges overcome, and the lessons learned! Each of these elements contributes to a comprehensive understanding of the ROI of GitHub Copilot in your organization.\n\n## Checklist to advance to the next stage\n\nLet's review your activity and if you think it is good, move on to the next stage!\n\n- [ ] Achieve a minimum of 10% commitment in using GitHub Copilot within 90 days.\n- [ ] Clearly define the value proposition of GitHub Copilot for your organization.\n- [ ] Document ROI goals and set realistic timelines.\n\nCongratulations on reaching this pivotal stage in your GitHub Copilot adoption journey! Your commitment and effort are key to unlocking new potentials and efficiencies within your organization. Keep up the great work, and remember, every step forward is a step towards transformative success!\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:02Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "🎉 Celebrate the successful departure of your onboarding journey! Check out the ROI you've achieved",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Onboard",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-ON99",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt8Q",
+              "databaseId": 63485892
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqdU",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/sustain/SU04.png)\n\n\nCopilot Enterprise is the next level of coding assistance that brings advanced AI capabilities directly into the developer's toolkit. With features like Pull Request Generation and native integration in GitHub.com, it’s designed to streamline workflows, enhance productivity, and elevate developer satisfaction. By upgrading to this enterprise-grade solution, your organization can unlock a new horizon of coding efficiency, enabling developers to focus more on strategic tasks and less on repetitive coding. This transition to a more sophisticated tool not only impacts individual developers but also transforms the collective output of your teams.\n\n## Checklist\n\n- [ ] Evaluate your current GitHub Copilot usage and identify potential areas for improvement with Enterprise features.\n- [ ] Plan a structured upgrade from GitHub Copilot to the Enterprise version, ensuring minimal disruption to ongoing projects.\n- [ ] Train your development team on Enterprise-specific features such as Pull Request Generation and integration with GitHub.com.\n- [ ] Monitor developer productivity, impact, and satisfaction before and after the upgrade to measure the benefits.\n\n## Useful resources\n\n- [GitHub Universe 2023 opening keynote](https://www.youtube.com/watch?v=NrQkdDVupQE)\n- [About Copilot Enterprise](https://docs.github.com/en/copilot/github-copilot-enterprise/overview/about-github-copilot-enterprise)\n- [About GitHub Copilot Chat](https://docs.github.com/en/copilot/github-copilot-enterprise/copilot-chat-in-github/about-github-copilot-chat)\n- [About Copilot pull request summaries](https://docs.github.com/en/copilot/github-copilot-enterprise/copilot-pull-request-summaries/about-copilot-pull-request-summaries)\n- [Sign up for the Copilot Enterprise waitlist](https://github.com/github-copilot/copilot_enterprise_waitlist_signup/join)\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:02Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "⤴Elevate your code: Leveraging Copilot Enterprise for more productivity, developer impact and developer satisfaction",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Sustain",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-SU04",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  },
+                  {
+                    "node": {
+                      "name": "🤖 Copilot Enterprise",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V4",
+                        "name": "Requirements"
+                      }
+                    },
+                    "cursor": "NQ"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NQ"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt8U",
+              "databaseId": 63485893
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqdY",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/sustain/SU03.png)\n\nExploring GitHub Copilot's beta features is like venturing into uncharted territory, full of new possibilities that could redefine your development workflow. Engaging with these features not only gives you a glimpse into the future of AI in coding but also allows you to contribute to the tool's evolution. By testing beta offerings, your feedback becomes instrumental in shaping the final product, ensuring it meets the real-world needs of developers. This proactive involvement in beta programs can lead to early adoption advantages, keeping your team ahead of the technology curve.\n\n## Checklist\n\n- [ ] Enroll in the GitHub Copilot beta program to gain early access to new features.\n- [ ] Set up a separate, safe testing environment to explore the beta features without disrupting ongoing projects.\n- [ ] Train a select group of developers on how to test and provide constructive feedback on new features.\n- [ ] Establish a feedback loop with GitHub to share insights, bugs, and suggestions.\n- [ ] Organize regular check-ins to discuss experiences with the beta features and decide on their adoption.\n\n## Useful resources\n\n- [The latest GitHub previews](https://github.com/features/preview)",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:02Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "🧪 Try beta features to explore new AI possibilities",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Sustain",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-SU03",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "💻 Developers",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt8Y",
+              "databaseId": 63485894
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqdc",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/sustain/SU02.png)\n\nThe effectiveness of GitHub Copilot can be significantly enhanced when its use is tailored to the specific domains and contexts within your organization. By configuring Copilot’s utilization with a focus on domain-specific tasks, teams can achieve greater productivity, higher quality code, and a more intuitive development experience. The key is to leverage Copilot's AI-driven insights in a way that complements the expertise within each domain.\n\n## Checklist\n\n- [ ] Identify domain-specific coding tasks where GitHub Copilot can be most beneficial.\n- [ ] Train developers on how to use GitHub Copilot effectively within their specific domain.\n- [ ] Monitor and analyze the use of GitHub Copilot within different domains to continually refine its use.\n- [ ] Share success stories and tips across domains to foster a community of practice.\n\n## Useful resources\n\n- [GitHub Copilot Patterns and Exercises](https://patterns.hattori.dev/)\n- [Pragmatic techniques to get the most out of GitHub Copilot | BRK255H](https://www.youtube.com/watch?v=CwAzIpc4AnA)\n- [Effortless Python with GitHub Copilot](https://www.youtube.com/watch?v=DSHfHT5qnGc)\n- [Error Troubleshooting in Jupyter Notebooks](https://www.youtube.com/watch?v=Wc9ZyHG0xxA)\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:02Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "👁 Facilitate optimal use of GitHub Copilot per domain for more specific use",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Adopt",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-SU02",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🦸 Champions",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt8c",
+              "databaseId": 63485895
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqdg",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/sustain/SU01.png)\n\n\nMaximizing the potential of GitHub Copilot hinges on understanding and addressing the reasons behind its suboptimal utilization in some teams. Investigating these reasons requires a methodical approach to gather insights, diagnose enablement barriers, and strategize improvements. It's a cycle of learning and adapting, where each finding informs the next step towards full utilization. By pinpointing the root causes of underuse, you can tailor your enablement strategies, provide targeted support, and enhance the overall efficiency of your development team.\n\n## Checklist\n\n- [ ] Conduct a survey to identify the gaps in knowledge or barriers to effective GitHub Copilot use.\n- [ ] Analyze usage data to pinpoint patterns that suggest underutilization.\n- [ ] Organize focus groups with developers to discuss challenges and solicit suggestions.\n- [ ] Formulate a plan to address identified issues and improve enablement resources.\n\n## Useful resources\n\nInterestingly, your promotion of GitHub Copilot within your company is similar to the work of increasing the number of OSS contributors.\n\n- [Marketing for maintainers: Promote your project to users and contributors](https://github.blog/2022-07-28-marketing-for-maintainers-how-to-promote-your-project-to-both-users-and-contributors/)\n- [Creating a new contributor on-ramp](https://github.blog/2016-03-17-creating-a-new-contributor-on-ramp/)\n- [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:02Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "🔬 Investigate reasons for suboptimal utilization and enablement",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Sustain",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-SU01",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt8g",
+              "databaseId": 63485896
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqdk",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/sustain/SU00.png)\n\n🙌 Welcome to a crucial stage in your GitHub Copilot journey, where your experiences and challenges become the heart of the story. This is an ongoing adventure in learning, and exploration that transcends traditional boundaries of developer tools.\n\nAs we continue the adoption and integration of GitHub Copilot, it becomes a persistent journey towards excellence. This section is dedicated to identify areas for growth, exploring new frontiers of AI-powered coding and **sustain your Copilot success!**\n\n## Goal of the Sustain phase\n\n**Ensuring Continuous Engagement and Resource Utilization:** The focus of the Sustain phase is to keep GitHub Copilot as an integral, consistently used tool in your development process. Aim for ongoing, active engagement, where your team regularly leverages the self-serve resources developed throughout your journey. The goal is to maintain its usage as a standard practice, ensuring it continues to add value and support your long-term objectives.\n\n## Crafting your continuous story\n\n- 🔬 **Investigate Reasons for Suboptimal Utilization and Enablement**: Delve into the data to understand and address any barriers to maximizing GitHub Copilot's potential.\n- 👁 **Facilitate Optimal Use Per Domain**: Customize and adapt GitHub Copilot's use to fit the unique needs and nuances of each domain within your enterprise.\n- 🧪 **Try Beta Features**: Boldly test the cutting-edge Beta features of GitHub Copilot, paving the way for new AI possibilities and insights.\n- ⤴ **Upgrade to Copilot Enterprise**: Elevate your productivity, developer impact, and satisfaction by leveraging the advanced capabilities of Copilot Enterprise.\n- 📄 Customize Models for Greater Accuracy: Are you looking to increase the areas where Copilot's accuracy can be enhanced? Fine-tuning might be the solution you need.\n\nRemember, this journey with GitHub Copilot is never-ending, an ever-evolving story that grows richer with each line of code. Let's continue to build this narrative together, one that speaks of innovation, collaboration, and the relentless pursuit of improvement!",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:02Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "🙌  Let's weave your stories together",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Sustain",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-SU00",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt8k",
+              "databaseId": 63485897
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqdo",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/optimize/OP06.png)\n\nContinuous feedback is the linchpin of progress, especially when it comes to tools like GitHub Copilot that are constantly evolving. When your team encounters roadblocks or inefficiencies, relaying this experience back to GitHub can lead to support, solutions, and enhancements. This not only aids in refining your own development processes but also contributes to the collective advancement of the Copilot tool. Structured feedback enables GitHub to identify common pain points, prioritize updates, and deploy resources to assist users in overcoming challenges.\n\n## Checklist\n\n- [ ] Compile a comprehensive list of current issues and suggestions related to GitHub Copilot.\n- [ ] Designate a team member to coordinate feedback collection and communication with GitHub.\n- [ ] Develop a way to adopt GitHub's recommendations and tracking changes.\n\n## Useful resources\n\n- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:02Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "💬 Engage for improvement: Providing feedback to GitHub on Copilot",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Optimize",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-OP06",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "👨‍👦‍👦 All Users",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt8o",
+              "databaseId": 63485898
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqds",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/optimize/OP05.png)\n\nTo fully realize the benefits of GitHub Copilot across your organization, it's essential to ensure that all potential users are active and engaged. Automation plays a key role in this process, particularly when it comes to tracking and encouraging user activation. By configuring APIs and setting up automated systems, you can easily monitor which members of your team have not yet activated their GitHub Copilot accounts and take proactive steps to assist them. This overview provides a pathway to create a frictionless and automated process for tracking and improving GitHub Copilot activation rates, thereby optimizing its usage within your company.\n\n## Checklist\n\n- [ ] Determine the criteria for ‘activated’ status in the context of GitHub Copilot use.\n- [ ] Set up an API integration to monitor activation status across user accounts.\n- [ ] Automate regular reporting of activation status to identify inactive users.\n- [ ] Develop an automated email campaign to engage and assist inactive users.\n- [ ] Create a dashboard for real-time monitoring of GitHub Copilot activations.\n- [ ] Implement alerts for immediate follow-up with users who have not activated after a set period.\n- [ ] Schedule routine check-ins to evaluate the effectiveness of the automation strategy.\n\n## Useful resources\n\n- [GitHub Copilot REST API](https://docs.github.com/en/copilot) - Provides information on managing the GitHub Copilot Business subscription for your organization. This documentation will be essential for setting up API integration to monitor activation status across user accounts.\n- [GitHub Copilot Documentation](https://docs.github.com/en/copilot) - Offers a comprehensive overview of GitHub Copilot, including features and usage instructions. This resource is valuable for understanding the full capabilities of GitHub Copilot and how it can be integrated into your workflow.\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:02Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "⚙ Automate user activation tracking",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Optimize",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-OP05",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt8s",
+              "databaseId": 63485899
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqdw",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/optimize/OP04.png)\n\nIn the realm of software development, numbers often tell a compelling story. Tracking the adoption rates of GitHub Copilot and measuring Developer Experience (DevEx) metrics are critical to understanding its impact. These metrics illuminate how swiftly and widely Copilot is embraced within your organization and the degree to which it enhances or hinders your developers' workflow. By monitoring these indicators, you can make informed decisions to optimize Copilot’s integration, tailor support, and improve overall productivity and satisfaction.\n\n## Checklist\n\n- [ ] Implement a system to measure the frequency and patterns of GitHub Copilot usage among developers.\n- [ ] Establish key DevEx metrics that reflect the effectiveness of GitHub Copilot in your workflows.\n- [ ] Regularly audit and update your metrics to align with evolving development practices and tools.\n- [ ] Communicate the importance of these metrics to your team to encourage engagement with tracking efforts.\n- [ ] Use the collected data to produce reports that drive strategic decisions for training and development.\n\n## Useful resources\n\n- [Metrics for issues, pull requests, and discussions](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/)\n- [Measuring enterprise developer productivity](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/)\n- [Building GitHub: introduction](https://github.blog/2020-10-29-building-github-introduction/) - An introduction to our blog series on GitHub’s investments in technical excellence.\n- [Developer experience: What is it and why should you care?](https://github.blog/2023-06-08-developer-experience-what-is-it-and-why-should-you-care/)\n- [Survey reveals AI’s impact on the developer experience](https://github.blog/2023-06-13-survey-reveals-ais-impact-on-the-developer-experience/)\n- [dora-team/fourkeys](https://github.com/dora-team/fourkeys) - Platform for monitoring the four key software delivery metrics of software delivery\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:02Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "📊  Track the adoption rates and DevEx Metrics to measure results from numbers",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Optimize",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-OP04",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt8w",
+              "databaseId": 63485900
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqd0",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/optimize/OP03.png)\n\nUnderstanding how your team interacts with GitHub Copilot is essential to ensure it’s being used to its fullest potential and to gauge overall user satisfaction. A well-constructed survey provides insight into how this tool fits within your development process, identifies areas for improvement, and captures the sentiment of your developers towards this AI pair programmer. The aim is to harness feedback that can shape the roadmap for training, support, and enhancements, ultimately solidifying GitHub Copilot's role as a valuable asset in your tech stack.\n\nAfter analyzing the survey data, as a follow-up, it's crucial to delve deeper into the nuances of GitHub Copilot’s impact. In general, there are many factors that increase productivity and you need to understand what works for it in GitHub Copilot. This involves conducting user interviews to bridge the gap between survey and real-world usage These user interviews will provide a richer, more comprehensive understanding of how GitHub Copilot is used and perceived within your organization.\n\n## Checklist\n\n- [ ] Define clear objectives for what you aim to learn from the GitHub Copilot usage survey.\n- [ ] Design questions that cover ease of use, productivity impact, feature adequacy, and support quality.\n- [ ] Choose a survey platform that allows anonymity and ease of use to encourage candid feedback.\n- [ ] Set a timeline for survey distribution and completion, allowing ample time for thoughtful responses.\n- [ ] Analyze the survey data and plan a follow-up action to address the findings and share insights with the team.\n- [ ] Identify specific users for follow-up interviews based on survey responses, focusing on those who might provide detailed insights or have unique experiences.\n- [ ] Schedule and conduct follow-up interviews to gather qualitative feedback, exploring areas not fully captured by the survey in order to understand the multi-dimensional aspects of productivity and the downstream benefits of using Copilot.\n\n## Useful template\n\n### Copilot Usage Feedback Survey\n\n#### Productivity and Satisfaction\n\n- **When using Copilot I am more productive**\n  - [ ] Strongly Disagree\n  - [ ] Disagree\n  - [ ] Neutral\n  - [ ] Agree\n  - [ ] Strongly Agree\n\n#### Time Spent Coding\n\n- **How much time in a typical work day do you spend coding?**\n  - [ ] 30% or less\n  - [ ] 30% to 60%\n  - [ ] 60% or more\n\n#### Frustration and Job Fulfillment\n\n- **When using Copilot I am less frustrated when coding**\n  - [ ] Strongly Disagree\n  - [ ] Disagree\n  - [ ] Neutral\n  - [ ] Agree\n  - [ ] Strongly Agree\n- **When using Copilot I am more fulfilled with my job**\n  - [ ] Strongly Disagree\n  - [ ] Disagree\n  - [ ] Neutral\n  - [ ] Agree\n  - [ ] Strongly Agree\n\n#### Efficiency in Repetitive Tasks\n\n- **When using Copilot I am able to complete repetitive tasks more quickly**\n  - [ ] Strongly Disagree\n  - [ ] Disagree\n  - [ ] Neutral\n  - [ ] Agree\n  - [ ] Strongly Agree\n- **When using Copilot I am able to focus on more satisfying work**\n  - [ ] Strongly Disagree\n  - [ ] Disagree\n  - [ ] Neutral\n  - [ ] Agree\n  - [ ] Strongly Agree\n\n#### Overall Task Completion Speed\n\n- **When using Copilot I am able to complete tasks more quickly**\n  - [ ] Strongly Disagree\n  - [ ] Disagree\n  - [ ] Neutral\n  - [ ] Agree\n  - [ ] Strongly Agree\n- **When using Copilot I feel more in the flow**\n  - [ ] Strongly Disagree\n  - [ ] Disagree\n  - [ ] Neutral\n  - [ ] Agree\n  - [ ] Strongly Agree\n\n#### Search Time and Mental Effort\n\n- **When using Copilot I spend less time searching**\n  - [ ] Strongly Disagree\n  - [ ] Disagree\n  - [ ] Neutral\n  - [ ] Agree\n  - [ ] Strongly Agree\n- **When using Copilot I spend less mental effort on repetitive tasks**\n  - [ ] Strongly Disagree\n  - [ ] Disagree\n  - [ ] Neutral\n  - [ ] Agree\n  - [ ] Strongly Agree\n\n#### Time Savings\n\n- **Roughly, how much time have you saved using Copilot?**\n  - [ ] 0-1 hours\n  - [ ] 1-4 hours\n  - [ ] 4-8 hours\n  - [ ] 8 hours +\n  - [ ] None\n\n- **What did you do with your time savings?**\n  - [ ] Grabbed more work off the backlog\n  - [ ] Added unit tests\n  - [ ] Refactored code\n  - [ ] Optimized code\n  - [ ] Fixing security vulnerabilities\n  - [ ] Other\n\n#### Additional Feedback\n\n- **Any feedback you'd like GitHub to know?**\n- **Is there anything else you want your colleagues to know about your experience with Copilot?**\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:02Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "📄 Conduct a GitHub Copilot usage survey to track satisfaction and appropriate use",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Optimize",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-OP03",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt80",
+              "databaseId": 63485901
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqd4",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/optimize/OP02.png)\n\nHighlighting the success stories within your developer ecosystem is vital for inspiring confidence in your tools and processes. Case studies serve as powerful testimonials, capturing the tangible benefits of your Developer Experience (DX). They narrate the journey of challenges overcome, efficiencies gained, and innovation sparked. By publishing insightful case studies, you not only showcase the excellence of your DX but also provide a narrative that others can aspire to and learn from.\nIn addition to giving people a good opportunity to shine as Copilot Champions, the publication of the case study would motivate them. It would also demonstrate the innovative nature of the company by publicizing its use of the latest AI tools.\n\n## Checklist\n\n- [ ] Identify and document key internal successes that showcase the strengths of your Developer Experience.\n- [ ] Gather quantitative data and qualitative feedback to support the narratives.\n- [ ] Draft a story for each case study, outlining the problem, solution, and benefits.\n- [ ] Collaborate with marketing to craft engaging and relatable content for publication.\n\n## Useful resources\n\n- [Duolingo empowers its engineers to be force multipliers for expertise with GitHub Copilot, Codespaces](https://github.com/customer-stories/duolingo)\n- [GitHub Copilot helps Indra focus on making the world safer](https://github.com/customer-stories/indra)\n- [AMD Case study at GitHub Universe Keynote (YouTube)](https://youtu.be/AAT4zCfzsHI?feature=shared&t=1518)\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:02Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "📰 Publish case studies to spread the word about the excellence of your Developer Experience",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Optimize",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-OP02",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🦸 Champions",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt84",
+              "databaseId": 63485902
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqeA",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/optimize/OP01.png)\n\nIncorporating GitHub Copilot into your organization's workflow involves more than just understanding the tool—it requires a culture shift towards embracing new technologies. Engaging your internal community is crucial for this transition. By showcasing successful case studies and creating an environment that encourages exploration and knowledge sharing, you can enhance the penetration of GitHub Copilot within your company. This guide focuses on internal community engagement to build support and enthusiasm for GitHub Copilot, using both internal advocacy and external forces to drive adoption.\n\n## Checklist\n\n- [ ] Identify internal advocates who have successfully used GitHub Copilot.\n- [ ] Document and share these success stories within your company.\n- [ ] Organize internal workshops led by early adopters of GitHub Copilot.\n- [ ] Facilitate a company-wide challenge or hackathon using GitHub Copilot.\n- [ ] Encourage employees to contribute to a shared repository of Copilot-enhanced code.\n- [ ] Monitor and share the increase in productivity or code quality from Copilot use.\n- [ ] Create a recognition program for innovative uses of AI in coding\n\nYou might consider developing your own program, drawing inspiration from general employee recognition strategies and adapting them to recognize and reward innovative and effective uses of GitHub Copilot within your team.\n\n## Useful resources\n\n- [GitHub Discussions documentation](https://docs.github.com/en/discussions) - GitHub Discussions is a collaborative communication forum for the community around an open source or internal project. Community members can ask and answer questions, share updates, have open-ended conversations, and follow along on decisions affecting the community's way of working.\n- [Blogs: GitHub Discussions](https://github.blog/tag/github-discussions/)\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:02Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "👪 Engage with the internal community to leverage for penetration",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Optimize",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-OP01",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🦸 Champions",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt9A",
+              "databaseId": 63485904
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqeE",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/optimize/OP00.png)\n\n👋 Welcome to the next exciting phase of your GitHub Copilot integration! As we shift our focus to optimization, it's about making every keystroke count and every process more streamlined. This journey is meant for the admins and champions who see beyond the code to its potential in driving business success.\n\nEmbarking on the optimization journey with GitHub Copilot means fine-tuning your approach to coding within your enterprise. This section is crafted to propel you through various strategies that enhance the tool's integration and usage. By engaging with your internal community, showcasing successes, and continuously measuring impact, you set the stage for a deeply integrated, highly efficient development environment.\n\n## Goal of the Adopt phase\n\n**Achieving Full Integration and Mastery:** The central aim in this phase is to transcend beyond regular usage of GitHub Copilot, striving for a state where it becomes an intuitive part of your development process. The goal is to maintain and exceed an 80% active usage rate, reflecting not just habitual use but deep, efficient integration into your daily coding practices. This involves leveraging GitHub Copilot's capabilities to the fullest, ensuring that it is consistently used in a way that significantly enhances productivity and coding quality.\n\n**Value Realization - Documenting and Demonstrating Impact for Practical Benefits:** In this phase, **the emphasis is on clearly identifying and recording the real-world advantages GitHub Copilot has provided to your team**. This isn't just about high usage numbers; it's about capturing how GitHub Copilot has tangibly improved your development processes. Focus on specifics, such as how it has streamlined complex coding tasks, contributed to faster project completion, and enhanced the overall quality of the code. The goal is to recognize GitHub Copilot as a vital asset in your coding arsenal, one that has brought measurable improvements in efficiency and effectiveness to your team's work. This process of documenting and demonstrating impact is essential for understanding the practical value GitHub Copilot adds, beyond just being a new technology adoption, making its continued use a clear choice for ongoing and future projects.\n\n## Enhancing your implementation\n\n- 👪 **Engage with the Internal Community**: Foster a culture of collaboration and knowledge-sharing to deepen Copilot adoption.\n- 📰 **Publish Case Studies**: Highlight and share your success stories to demonstrate the value of an optimized Developer Experience.\n- 📄 **Conduct a GitHub Copilot Usage Survey**: Gather feedback to ensure satisfaction and align the tool's use with your enterprise goals.\n- 📊 **Track Adoption Rates and DevEx Metrics**: Use data to measure the success of integration and identify areas for further improvement.\n- ⚙ **Optimize Copilot Use with Automation**: Integrate Copilot into your automated processes for increased efficiency.\n- 💬 **Send Feedback to GitHub**: Communicate your experiences and challenges to gain support and solutions from GitHub.\n- 🎉 **Celebrate Your Optimization Success**: Take a moment to celebrate the milestones reached and the optimized return on investment.\n\nAs you move forward, remember that optimization is an ongoing process of learning, adapting, and improving. We're here to support your journey to achieving not just better code, but better business outcomes with GitHub Copilot.\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:03Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "👋 Start your optimization journey",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Optimize",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-OP00",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt9E",
+              "databaseId": 63485905
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqeI",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/adopt/AD05.png)\n\nIn the dynamic world of software development, GitHub Copilot stands as a transformative tool, turning code into a collaborative art. The success of integrating such a powerful tool into your team’s workflow hinges on the shoulders of a few — your champions. These are the team members who will ignite the spark of adoption and fan it into a wildfire of productivity and innovation. Empowering these individuals is not just about imparting knowledge; it’s about creating leaders who will drive the GitHub Copilot program forward with enthusiasm and expertise.\n\n## Checklist\n\n- [ ] Select a diverse group of champions from different departments.\n- [ ] Conduct an introductory workshop on GitHub Copilot's capabilities.\n- [ ] Develop a knowledge-sharing way for champions to educate others.\n- [ ] Organize a GitHub Copilot kickoff meeting to align all champions.\n\n## Useful resources\n\n- [How to communicate like a GitHub engineer: our principles, practices, and tools](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/) - Learn more about how GitHub use GitHub, how we turned our guiding communications principles into prescriptive practices to manage our internal communications signal-to-noise ratio, and how you can contribute to the ongoing conversation.\n- [How GitHub Engineering communicates: Tips for leaders](https://github.com/github/how-engineering-communicates/blob/main/tips-for-leaders.md#how-github-engineering-communicates-tips-for-leaders) - Overall, the way we communicate as an Engineering organization is informed by the following principles\n- [GitHub Training](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/) - GitHub Training module at Microsoft Learn\n- [GitHub Discussions Enhancement with Category Forms](https://github.blog/2023-01-09-github-discussions-just-got-better-with-category-forms/)\n- [GitHub Copilot Business Fundamentals Training (Paid)](https://github.com/services/copilot-for-business-fundamentals-training) - GitHub Expert Services Offering\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:03Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "🦸‍♂ Identify and train champions to drive penetration",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Adopt",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-AD05",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🦸 Champions",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt9I",
+              "databaseId": 63485906
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqeM",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/adopt/AD04.png)\n\nThe onboarding process for GitHub Copilot is crucial for ensuring that your team members can harness its full potential from day one.\nIt is not enough to simply show how to install Copilot and turn on its features. It is even better to have onboarding guides to help users get the most out of it and apply it to their development in a practical way.\nIt is also useful to incorporate them into a company's training program or reskilling program.\nWith the right resources and a clear roadmap, users can transition from novices to power users, enhancing productivity and fostering innovation within your organization.\n\n## Checklist\n\n- [ ] Identify the primary contact for GitHub Copilot queries within your organization.\n- [ ] Set up an internal resource hub dedicated to GitHub Copilot materials.\n- [ ] Create a step-by-step plan for users to set up their GitHub Copilot environment.\n- [ ] Draft a list of common use cases for GitHub Copilot within your company.\n- [ ] Schedule regular review sessions to update onboarding materials with new features and best practices.\n- [ ] If your organization has a reskilling program, AI learning program, or training program, consider including an item in it to learn to code with AI.\n\n## Useful resources\n\n- [Getting Started with GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot) - This official guide covers the basics of setting up and using GitHub Copilot, including prerequisites and installation steps.\n- [GitHub Copilot Trust Center](https://resources.github.com/copilot-trust-center/)\n- [About Wikis on GitHub](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)\n- [Configuring GitHub Copilot Settings](https://docs.github.com/en/copilot/getting-started-with-github-copilot#configuring-github-copilot-settings-on-githubcom) - Information on configuring various settings for GitHub Copilot to tailor it to your needs.\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:03Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "🧑‍🎓 Build Self-Service onboarding guidance",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Sustain",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-AD04",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt9M",
+              "databaseId": 63485907
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqeQ",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/adopt/AD03.png)\n\nTo harness the full potential of GitHub Copilot, it's essential to benchmark its usage within your team or organization. Analyze precedent-setting use cases and research to establish benchmarks that align with your goals. Assess current usage to determine the effectiveness and identify opportunities for enhanced adoption. Understand the importance of collecting metrics and utilizing Copilot's APIs for data-driven insights, enabling continuous improvement and optimized development workflows.\n\n## Checklist\n\n- [ ] Review the case studies and research results to set effective benchmarks for GitHub Copilot usage.\n- [ ] Evaluate current Copilot usage against identified benchmarks to find areas of improvement.\n- [ ] Determine key performance indicators (KPIs) that align with your specific development goals and use cases.\n- [ ] Establish a way for regular collection and analysis of Copilot metrics to inform adoption strategies.\n- [ ] Utilize GitHub Copilot's APIs to gather data that will refine and tailor your development process.\n\n## Useful resources\n\n- [GitHub Copilot REST API Documentation](https://docs.github.com/en/rest/copilot) - Official documentation on GitHub Copilot's REST API, providing resources for leveraging Copilot APIs for data-driven insights.\n- [Developer experience: What is it and why should you care?](https://github.blog/2023-06-08-developer-experience-what-is-it-and-why-should-you-care/) - Explore how investing in a better developer experience frees developers to do what matters most: building great software.\n- [Metrics for issues, pull requests, and discussions](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/) - With the new Issue Metrics GitHub Action, you can now track and monitor important metrics related to issues, pull requests, and discussions, such as time to first response, time to close, and more!\n- [GitHub Copilot's Impact on Developer Productivity Study](https://arxiv.org/abs/2108.09293) - An academic paper analyzing\n- [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)\n- [Get Copilot Business seat assignment details for a user](https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-for-business?apiVersion=2022-11-28#get-copilot-for-business-seat-assignment-details-for-a-user)\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:03Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "📈 Benchmark GitHub Copilot usage to find room for improvement",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Adopt",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-AD03",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt9Q",
+              "databaseId": 63485908
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqeU",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/adopt/AD02.png)\n\nElevate your GitHub Copilot experience with advanced tips and tricks tailored for developers. Delve beyond the fundamentals to master Copilot's capabilities within your development environment. Whether you're using VS Code or another platform, learn to fine-tune Copilot's suggestions to match your coding style and project requirements. Explore how to apply design patterns effortlessly with Copilot's AI assistance, streamlining your development process and boosting your productivity.\n\n## Checklist\n\n- [ ] Refine Copilot's code suggestions to align with personal coding practices and project conventions.\n- [ ] Leverage Copilot in VS Code to its full potential by customizing settings and utilizing keyboard shortcuts.\n- [ ] Incorporate Copilot patterns into your projects.\n\n## Useful resources\n\n- [GitHub Copilot Prompts, Tips, and Use Cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/) - A comprehensive guide by GitHub developer advocates, offering examples and best practices for effectively communicating with GitHub Copilot to get desired results.\n- [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/editor/github-copilot) - A tutorial on using GitHub Copilot in Visual Studio Code, providing insights into setting up and generating code for various programming languages.\n- [GitHub Copilot Patterns and Exercises](https://patterns.hattori.dev/) - An article discussing how to customize GitHub Copilot's behavior and leverage its AI-powered code suggestions for tasks like code refactoring, error handling, and utilizing standard libraries.\n- [Crafting Spells with GitHub Copilot (YouTube)](https://www.youtube.com/watch?v=3XkzKWkmt0g)\n- [Prompting with Copilot (YouTube)](https://www.youtube.com/watch?v=ImWfIDTxn7E)\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:03Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "🧠 Learn GitHub Copilot advanced tips & tricks to make more use of it",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Adopt",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-AD02",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "💻 Developers",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt9U",
+              "databaseId": 63485909
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqeY",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/adopt/AD01.png)\n\nTo fully embrace GitHub Copilot in your organization, a deep dive into how it works is crucial. Begin with understanding its basic to advanced features. Explore the underlying Large Language Models (LLMs) that power Copilot, providing AI-assisted code suggestions. Gain insights into technical intricacies and best practices to enhance developer efficiency. This guide aims to equip you with the knowledge to maximize Copilot’s potential and seamlessly integrate it into your development workflow.\n\n## Checklist\n\n- [ ] Familiarize with GitHub Copilot's basic and advanced features for efficient utilization.\n- [ ] Understand the fundamentals of Large Language Models (LLMs) that drive GitHub Copilot.\n- [ ] Adopt GitHub Copilot following best practices to ensure optimal integration and developer productivity.\n\n## Useful resources\n\n- [Inside GitHub: Working with the LLMs behind GitHub Copilot](https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/) - This section from The GitHub Blog provides a historical overview of GitHub Copilot, including its inception and the influence of OpenAI's model.\n- [How GitHub Copilot is getting better at understanding your code](https://github.blog/2023-05-17-how-github-copilot-is-getting-better-at-understanding-your-code/)\n- [Introduction to large language models](https://learn.microsoft.com/en-us/training/modules/introduction-large-language-models/)\n- [Prompt Crafting](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/) - Insights into the techniques of prompt crafting, explaining how these approaches enhance the model's ability to provide relevant code completions.\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:03Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "🤖 Learn GitHub Copilot behind-the-curtain to be familiar with it",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Adopt",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-AD01",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "💻 Developers",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt9Y",
+              "databaseId": 63485910
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqec",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/adopt/AD00.png)\n\nReady to take your GitHub Copilot experience to the next level? Our Adoption phase is where we tighten the nuts and bolts and push the limits of what's possible with AI-powered coding.\n\nAs we embrace GitHub Copilot, we're not just adopting a tool; we're adopting a new way to think about and interact with code. This section of our onboarding program is designed to deepen that interaction, and expanding your team's use of GitHub Copilot to its fullest potential.\n\nAimed at administrators and champions within your enterprise, this documentation outlines advanced steps to ensure GitHub Copilot is not just a tool in your arsenal but a catalyst for innovation and efficiency in your coding practices.\n\n## Goal of the Adopt Phase\n\n**Achieve Mastery and Maximize Impact**: Set a bold yet attainable goal - aim for at least 80% of your users to actively engage with GitHub Copilot over a 28-day average. This isn't merely a usage statistic; it's a testament to GitHub Copilot becoming an integral part of your development process. Picture your team not just adapting to but excelling with this powerful tool, pushing boundaries, and setting new standards in coding efficiency.\n\nAs you navigate this phase, remember, you are the catalyst for a profound shift in how your team engages with code. You're guiding them towards a future where AI and human creativity collaborate to achieve extraordinary results.\n\n## Advancing Your Journey\n\n- ⚙ **Optimize Your GitHub Copilot Configuration**: Ensure a secure and compliant use of GitHub Copilot tailored to your enterprise needs.\n- 🤖 **Learn GitHub Copilot Behind-the-Curtain**: Gain a deeper understanding of the technology that powers your AI pair-programming partner.\n- 🧠 **Learn Advanced Tips & Tricks**: Elevate your use of GitHub Copilot with advanced techniques for even greater efficiency.\n- 📈 **Benchmark GitHub Copilot Usage**: Analyze usage patterns and identify areas for improvement.\n- 🧑‍🎓 **Build Self-Service Onboarding Guidance**: Empower your team with the tools they need to self-onboard and troubleshoot.\n- 🦸‍♂️ **Identify and Train Champions**: Cultivate leaders who will drive the adoption and effective use of GitHub Copilot across teams.\n- 🤖 **Learn Copilot Enterprise**: Maximize productivity with enterprise-specific functionalities and best practices.\n- 💬 **Accelerating Collaboration on github.com with Copilot**: Elevate your collaboration on github.com using Copilot Enterprise.\n- 💕 **Personalize and Utilize GitHub Copilot**: Learn how to optimize GitHub Copilot for your coding needs.\n- 🎉 **Celebrate Your Results**: Take time to acknowledge your achievements and the tangible ROI brought by GitHub Copilot.\n\nWe're excited to see how you'll leverage GitHub Copilot to not just meet but exceed your coding objectives. Here's to a successful and productive adoption!\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:03Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "👋 Let's move forward with a full-fledged adoption",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Adopt",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-AD00",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt9c",
+              "databaseId": 63485911
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqek",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/onboard/ON06.png)\n\nThe introduction of GitHub Copilot into your development environment is an investment in the developer experience (DX). To justify this investment, it is crucial to define and measure the return on investment (ROI) of such a tool. This includes assessing how GitHub Copilot affects coding practices, productivity, and overall software quality. By setting clear metrics and regularly evaluating them, you can gauge Copilot's effectiveness and make informed decisions about its continued use and potential expansion within your organization.\n\n## Checklist\n\n- [ ] Define key performance indicators (KPIs) that reflect the goals and expected benefits of using GitHub Copilot.\n- [ ] Conduct a baseline measurement of development metrics prior to introducing GitHub Copilot.\n- [ ] Make sure that you can track these KPIs, such as coding speed, bug rates, and feature delivery times.\n- [ ] Regularly collect data post-implementation to analyze the impact of GitHub Copilot.\n- [ ] Compare pre- and post-adoption metrics to assess ROI in terms of productivity, code quality, and developer satisfaction.\n- [ ] Share findings with the team and stakeholders to showcase the benefits and areas for improvement.\n- [ ] Use the initial metrics to guide further training, support, and optimization of GitHub Copilot use.\n- [ ] Iterate on your measurement strategy as you learn more about the benefits and limitations of AI-assisted coding.\n\nIt is not necessary to collect all of these indicators, but it is important to at least know how they changed before and after implementation.\n\n## Useful resources\n\n- [GitHub Copilot's Impact on Developer Productivity Study](https://arxiv.org/abs/2108.09293) - An academic paper analyzing\n- [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)\n- [Copilot Business API Documentation](https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-for-business?apiVersion=2022-11-28)\n- [Get Copilot Business seat assignment details for a user](https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-for-business?apiVersion=2022-11-28#get-copilot-for-business-seat-assignment-details-for-a-user)\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:03Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "📈 Design Developer Experience ROI and check the initial metrics",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Onboard",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-ON06",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt9g",
+              "databaseId": 63485912
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqeo",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/onboard/ON03.png)\n\nThe initial setup process is pivotal in ensuring that GitHub Copilot is seamlessly integrated into your team's development workflow. This involves a series of steps from sign-in to fine-tuning preferences and policies. A smooth setup means that your team can begin leveraging Copilot's capabilities without delay, in a secure and managed environment. We’ll guide you through each stage, from account creation and access management to understanding billing and getting the necessary help, ensuring that your enterprise harnesses the full potential of GitHub Copilot.\n\n## Checklist\n\n- [ ] Ensure all team members have GitHub accounts and understand the sign-in process.\n- [ ] Configure GitHub Enterprise settings to align with your organization's security and policy requirements.\n- [ ] Establish clear policies for using GitHub Copilot within your enterprise, including telemetry opt-out and suggestions matching public code setting.\n- [ ] Familiarize your team with the internal billing process for GitHub Copilot and set up cost management and tracking systems.\n- [ ] Check the team members' accounts with appropriate permissions and access levels for GitHub and GitHub Copilot.\n- [ ] Ensure proxy configuration for smooth GitHub Copilot integration in enterprise networks.\n- [ ] Encourage initial use and exploration of GitHub Copilot to get accustomed to its features and capabilities.\n- [ ] Create a resource list for where to get help and additional support when needed.\n\n## Useful resources\n\n- [Configuring GitHub Copilot](https://docs.github.com/en/copilot/configuring-github-copilot) - You can manage the configuration of GitHub Copilot in a supported IDE, in your organization, or on GitHub.com.\n- [Configuring network settings for GitHub Copilot](https://docs.github.com/en/copilot/configuring-github-copilot/configuring-network-settings-for-github-copilot) - You can connect to Copilot through an HTTP proxy and use custom certificates.\n- [Getting started](https://gist.github.com/jackgkafaty/71a22d97e3deccb2baf289f38ebfb2fb) - Summarized GitHub Configuration Guide\n- [Managing access](https://docs.github.com/en/copilot/managing-copilot-for-business/managing-access-for-copilot-for-business-in-your-organization) - Learn how to manage access to GitHub Copilot Business in your organization, and review usage data to inform your decisions.\n- [Signing up for GitHub Copilot for your enterprise account](https://docs.github.com/en/copilot/quickstart#signing-up-for-github-copilot-for-your-enterprise-account) - Instructions for purchasing Copilot Enterprise use.\n- [Enabling GitHub Copilot for your enterprise account](https://docs.github.com/en/copilot/quickstart#enabling-github-copilot-for-your-enterprise-account) - Steps to enable GitHub Copilot and manage policies within an enterprise account.\n- [Enforcing policies for GitHub Copilot in your enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/policies/enforcing-policies-for-your-enterprise/enforcing-policies-for-github-copilot-in-your-enterprise) - Overview of policies for GitHub Copilot in enterprise settings.\n- [Managing policies for Copilot Business in your organization](https://docs.github.com/en/enterprise-cloud@latest/copilot/managing-copilot-business/managing-policies-for-copilot-business-in-your-organization)\n- [GitHub Copilot Trust Center](https://resources.github.com/copilot-trust-center/#privacy)\n\n### Troubleshooting resources\n\n- [Troubleshooting common issues with GitHub Copilot](https://docs.github.com/en/copilot/troubleshooting-github-copilot/troubleshooting-common-issues-with-github-copilot)\n- [Viewing logs for GitHub Copilot in your environment](https://docs.github.com/en/copilot/troubleshooting-github-copilot/viewing-logs-for-github-copilot-in-your-environment)\n- [Troubleshooting firewall settings for GitHub Copilot](https://docs.github.com/en/copilot/troubleshooting-github-copilot/troubleshooting-firewall-settings-for-github-copilot)\n- [Troubleshooting network errors for GitHub Copilot](https://docs.github.com/en/copilot/troubleshooting-github-copilot/troubleshooting-network-errors-for-github-copilot)\n- [Troubleshooting issues with GitHub Copilot Chat](https://docs.github.com/en/copilot/troubleshooting-github-copilot/troubleshooting-issues-with-github-copilot-chat)\n\nThese action items and resources will guide you through integrating GitHub Copilot into your team's development workflow effectively.\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:03Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "⚙ Conduct your GitHub Copilot configuration to ensure its secure and compliant use",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Onboard",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-ON03",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt9o",
+              "databaseId": 63485914
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqes",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/onboard/ON02.png)\n\nWhen integrating GitHub Copilot into your development workflow, consider the two primary adoption strategies seen in enterprises:\n\n- **Anyone and Everyone:** A self-serve approach with low operational overhead. Technically, it's easy for users to access Copilot, but may lead to a suboptimal first experience without proper guidance.\n- **Team by Team:** Offers more structured planning and guidance, enhancing the initial experience and effectiveness of Copilot integration.\n\nWe recommend evaluating these strategies to determine which aligns best with your organizational needs and culture. it's beneficial to consider how other organizations have successfully adopted it. By analyzing case studies of customers who have implemented Copilot, we can create a strategic roadmap to maximize its utility. These case studies often reveal best practices for deployment, team adaptation, and the enhancement of coding standards, ultimately leading to a significant boost in productivity and code quality.\n\n## Checklist\n\n- [ ] **Build your organization's GitHub Copilot adoption plan**\n- [ ] Understand the impact of GitHub Copilot on developer productivity and code quality through quantitative and qualitative research.\n- [ ] Analyze case studies from organizations like Duolingo that have successfully integrated GitHub Copilot to enforce code consistency and accelerate developer speed.\n- [ ] Investigate the specific benefits reported by companies, such as the increase in developer speed and the decrease in code review turnaround time.\n- [ ] Consider how GitHub Copilot can be leveraged as a force multiplier for expertise within your own organization.\n- [ ] Examine how GitHub Copilot can help in scaling the underlying technology for a new future of software development.\n\n## Resources\n\n- [Research: Quantifying GitHub Copilot’s impact on developer productivity](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) - This resource provides research findings on how GitHub Copilot affects developer productivity.\n- [Duolingo's GitHub Copilot Success Story](https://github.com/customer-stories/duolingo) - Read about how Duolingo used GitHub Copilot and Codespaces to empower their engineers and increase efficiency.\n- [GitHub Universe 2023: Copilot transforms GitHub into the AI-powered developer platform](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/) - Information on how GitHub Copilot is part of GitHub's vision for the future of software development.\n\nThese resources will provide insights into the practical application and benefits of GitHub Copilot from a strategic and operational perspective, aiding in the creation of a roadmap for its implementation within your team or organization.\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:03Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "👣 Plan Copilot utilization roadmap",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Onboard",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-ON02",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt9s",
+              "databaseId": 63485915
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqew",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/onboard/ON01.png)\n\nGitHub Copilot is an AI-powered code completion tool that assists developers by suggesting whole lines or blocks of code as they type, making coding more efficient and less error-prone. It's like having a co-pilot during the coding journey, offering up suggestions and snippets that can be easily integrated into your work.\n\nLet's start by learning what GitHub Copilot is and how to incorporate it into your coding practices:\n\n## Checklist\n\n- [ ] Learn about GitHub Copilot and its features.\n- [ ] Explore how GitHub Copilot can help with coding in new languages or frameworks.\n- [ ] Understand how to get code suggestions from GitHub Copilot while coding.\n- [ ] Discover how GitHub Copilot's suggestions can be used to tackle bugs or learn new frameworks.\n\n## Useful resources\n\n- [GitHub Copilot Overview](https://github.com/features/copilot) - Official GitHub page introducing GitHub Copilot.\n- [Getting Started with GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot) - GitHub's official documentation for getting started.\n- [Introduction to GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/) - Microsoft's learning module for GitHub Copilot.\n- [GitHub Copilot Quickstart](https://docs.github.com/en/copilot/quickstart) - Quickstart guide for using GitHub Copilot.\n\nPlease refer to these resources to learn more about GitHub Copilot and how it can assist you in your development work.\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:03Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "💡 Learn GitHub Copilot - Fundamental",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Onboard",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-ON01",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "👨‍👦‍👦 All Users",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt9w",
+              "databaseId": 63485916
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqe0",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/onboard/ON00.png)\n\nWelcome to the Copilot Blueprint!\n\nCongratulations on taking the first step towards empowering your development team with GitHub Copilot!\nAs leaders and enablers in your organization, you're about to embark on a transformative journey with GitHub Copilot. This guide serves as your compass, designed to navigate the exciting path of integrating AI-powered coding into your enterprise workflows. Let's streamline the coding experience together and achieve remarkable results!\n\nWhether you're an admin setting up the enterprise environment or a champion advocating for innovative practices, this blueprint will provide you with the necessary guidelines to enable GitHub Copilot at your enterprise level effectively.\n\nLet's get started and make your coding more efficient, more productive and happier with GitHub Copilot!\n\n## Goal of the Onboard phase\n\nAs a rollout manager, you are at the forefront of driving positive change and empowering your developers.\n\n**Embrace the Future with Goal Achievement**: Let’s start with an inspiring goal: getting at least 10% of your developers to adopt GitHub Copilot within the first 90 days. This is more than just a target; it’s the first step in revolutionizing your coding practices. Imagine your team adopting cutting-edge tools, enhancing their productivity, and unleashing their creative potential. You’re not just reaching a number; you're setting the stage for a culture of innovation and continuous improvement.\n\nThis strategy is designed to empower you as a rollout manager. You’re leading the charge in adopting a tool that will redefine how your team approaches coding. Remember, every step you take is a leap towards a more innovative, efficient, and successful future for your team.\n\nEmbrace this opportunity, inspire your team, and watch as GitHub Copilot transforms your coding landscape!\n\n## Getting Started with the Onboard phase\n\nWe're thrilled to support you on this journey towards a smarter, more efficient coding environment. Let's code better, together!\n\nWe will cover the following topics in this phase:\n\n- 💡 **Learn GitHub Copilot - Fundamental**: Discover the basics of GitHub Copilot and how it can assist you in everyday coding tasks.\n- 👣 **Plan Copilot Utilization Roadmap**: Strategize how GitHub Copilot will be utilized within your enterprise to maximize its benefits.\n- ⚙ **Conduct Initial Setup**: Get your configuration ready for GitHub Copilot integration with our step-by-step setup guide.\n- 🗒 **Establish the User Onboarding Procedure**: Create a seamless onboarding process for your users to get up to speed with GitHub Copilot.\n- 💻 **Conduct Hackathon / Hands-on to let people feel the latest AI coding**: Engage your team with practical sessions to experience the power of AI-powered coding.\n- 📈 **Design Developer Experience ROI and Check the Initial Metrics**: Define and track the return on investment in the developer experience with GitHub Copilot's introduction, and measure the initial impact of GitHub Copilot on your development practices and productivity.\n- 🎉 **Celebrate the successful departure of your onboarding journey!**: Recognize the milestones achieved and the value added by integrating GitHub Copilot into your enterprise.\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:04Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "👋 Welcome to the Copilot Blueprint!! Let's get started with GitHub Copilot",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Onboard",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-ON00",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt90",
+              "databaseId": 63485917
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqe4",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/adopt/AD21.png)\n\nElevate your collaboration on github.com using Copilot Enterprise! Copilot Enterprise shines during collaborative moments on github.com.\n\nWhen you use Copilot Enterprise, GitHub Copilot Chat can assist by offering coding-related answers directly within GitHub.com, extending its support beyond just IDEs. This feature makes understanding code on github.com through Copilot Chat more straightforward. Copilot pull request summaries is an AI-powered tool enabling you to generate a summary of changes made in a pull request, the affected files, and key points for reviewers to focus on during their review.\n\n## Checklist\n\n- [ ] Identify organizations with active and numerous pull requests.\n- [ ] Investigate the time taken to create pull requests and check if those organizations are utilizing Copilot Enterprise.\n- [ ] Recommend Copilot pull request summaries for the specific organizations.\n- [ ] Pinpoint repositories where Copilot Chat on github.com could be applied. This includes repositories with relatively large codebases and numerous contributors, repositories with many new members who need to quickly understand the codebase, and repositories where reviewers take significant time to close pull requests.\n- [ ] Explore and recommend whether implementing Copilot Chat on github.com for reviewers and engineers can streamline reviews and expedite understanding of the codebase.\n\n## Useful resources\n\n- [About GitHub Copilot Chat](https://docs.github.com/en/copilot/github-copilot-enterprise/copilot-chat-in-github/about-github-copilot-chat)\n- [About Copilot pull request summaries](https://docs.github.com/en/copilot/github-copilot-enterprise/copilot-pull-request-summaries/about-copilot-pull-request-summaries)\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:04Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "💬 Accelerating collaboration on github.com with Copilot Enterprise",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Adopt",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-AD21",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "👨‍👦‍👦 All Users",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  },
+                  {
+                    "node": {
+                      "name": "🤖 Copilot Enterprise",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V4",
+                        "name": "Requirements"
+                      }
+                    },
+                    "cursor": "NQ"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NQ"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt94",
+              "databaseId": 63485918
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqe8",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/adopt/AD22.png)\n\nLearn how to optimize GitHub Copilot for your coding needs.\nIn Copilot Enterprise, beyond functioning as a chat feature on github.com and exceeding the capabilities of editor prompts, it becomes possible to provide more contextually relevant prompts by indexing your repository itself into a database and providing them when crafting prompt. This method is known as Retrieval Augmented Generation (RAG).\n\nSpecifically, there are two ways to tailor the output of GitHub Copilot to your context. One is by providing your context through prompts to the pre-trained model, and the other is by fine-tuning the model itself. Using RAG with pre-trained model to improve the accuracy of prompts and suggestions is currently gaining attention, and this personalization has been incorporated into Copilot Enterprise.\n\n## Checklist\n\n- [ ] Identify areas where the accuracy of GitHub Copilot could be improved further or where higher accuracy would be beneficial. For instance, scenarios with large codebases where grasping the big picture is challenging, cases with insufficient code documentation, or instances with extensive documentation that are difficult to search through.\n- [ ] Identify the GitHub organizations which have these challenges? Check if they are using Copilot Enterprise.\n- [ ] Identify use cases within your team, index them, and conduct precision measurement.\n\n## Useful resources\n\n- [What is RAG (Microsoft)](https://learn.microsoft.com/en-us/azure/machine-learning/concept-retrieval-augmented-generation?view=azureml-api-2)\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:04Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "💕 Personalize and utilize GitHub Copilot",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Adopt",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-AD22",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "👨‍👦‍👦 All Users",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  },
+                  {
+                    "node": {
+                      "name": "🤖 Copilot Enterprise",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V4",
+                        "name": "Requirements"
+                      }
+                    },
+                    "cursor": "NQ"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NQ"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt98",
+              "databaseId": 63485919
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqfA",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/sustain/SU21.png)\n\nAre you looking to increase the areas where Copilot's accuracy can be enhanced? Fine-tuning might be the solution you need. Fine-tuning involves adjusting the model to improve its accuracy. This can be achieved by adding your GitHub repositories to the pre-trained model and customizing the model itself. If you have specific naming conventions or other coding styles, fine-tuning could potentially make code generation more accurate by providing the necessary context. It can also be valuable for languages with less open-source information, i.e., areas where the base model might not have learned much, or when you want to add specific version-related information for more accurate suggestions.\n\nHowever, the training requires adding an addon to Copilot Enterprise. Understand that accuracy improvements might be limited to certain areas. Fine-tuning is a powerful feature that can yield significant results depending on the workload, but consider strategically trying fine-tuning with this in mind.\n\n## Checklist \n\n- [ ] Identify technical areas where Copilot's code completion accuracy should be improved.\n- [ ] Consider alternatives to fine-tuning for improving accuracy. This includes refining prompt engineering, adding natural language context to the codebase, and using RAG for accuracy enhancement. If these are insufficient, or if you need higher accuracy for generating a large volume of source code with GitHub Copilot, consider fine-tuning.\n- [ ] Determine the necessary projects and specific repositories to include for fine-tuning.\n- [ ] Implement fine-tuning and verify the improvements in accuracy.\n\n## Useful resources\n\n- [Universe 2023: Copilot transforms GitHub into the AI-powered developer platform](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/)\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:04Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "📄 Customize models for greater accuracy",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Sustain",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-SU21",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  },
+                  {
+                    "node": {
+                      "name": "🤖 Copilot Enterprise",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V4",
+                        "name": "Requirements"
+                      }
+                    },
+                    "cursor": "NQ"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NQ"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt-A",
+              "databaseId": 63485920
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqfE",
+                "body": "![Image](https://github.github.com/blueprint-resources/copilot/onboard/ON04.png)\n\nOnboarding users to GitHub Copilot should be a strategic process that introduces them to the tool's capabilities and best practices. A well-designed onboarding program equips users with the necessary knowledge and skills to use Copilot effectively, fostering a smooth transition and immediate productivity boosts. The process should cover everything from initial setup to real-world application, ensuring that users feel confident in leveraging AI-powered coding in their daily tasks.\n\n## Checklist\n\nSome of the items are covered in the GitHub Copilot configuration section, but it is important to check once again if they are available for all users to use during the user onboarding process.\n\n- [ ] Develop a comprehensive onboarding guide that includes installation, configuration, and first-use instructions.\n- [ ] Organize training sessions to demonstrate GitHub Copilot’s features and benefits.\n- [ ] Create a series of interactive tutorials or challenges that encourage users to try out Copilot in their coding work.\n- [ ] Ensure that users are aware of the support resources available to them.\n- [ ] Set up a feedback mechanism to continuously improve the onboarding process based on user experiences.\n- [ ] Introduce users to the community and forums where they can share tips and seek advice.\n- [ ] Monitor new users' progress and offer additional help or resources if needed.\n\n## Useful resources\n\n- [GitHub Copilot Quickstart Guide](https://docs.github.com/en/copilot/getting-started-with-github-copilot) - The official guide for getting started with GitHub Copilot.\n- [Getting Started with GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot) - This guide covers prerequisites, installing GitHub Copilot in Visual Studio Code, and seeing your first suggestion.\n- [Configuring GitHub Copilot Settings](https://docs.github.com/en/copilot/getting-started-with-github-copilot#configuring-github-copilot-settings-on-githubcom) - Details on how to configure GitHub Copilot settings, including duplication detection and content exclusions\n",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:04Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "🗒 Establish the user onboarding procedure",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Onboard",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-ON04",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "🧞  Admin / Rollout Manager",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt-E",
+              "databaseId": 63485921
+            },
+            {
+              "content": {
+                "__typename": "DraftIssue",
+                "id": "DI_lAHOA8IS7s4Ah7zazgGXqfI",
+                "body": "![](https://github.github.com/blueprint-resources/copilot/onboard/ON05.png)\n\nTo truly understand and appreciate the power of AI in coding, there's nothing quite like a hands-on experience. Organizing a hackathon or a hands-on workshop can be an incredibly effective way to engage your team with GitHub Copilot. This collaborative event can spark creativity, promote learning, and provide a real-world context for how AI can enhance the coding process. It's a chance for your team to test the limits of Copilot, experiment with new ideas, and see firsthand how AI can accelerate project development.\n\n## Checklist\n\n- [ ] Plan and schedule a hands-on or hackathon event, ensuring it is well-publicized and accessible to all team members.\n- [ ] Create a structured agenda that allows for both collaborative and individual exploration of GitHub Copilot's capabilities.\n- [ ] Prepare a set of coding challenges or project ideas that participants can work on using GitHub Copilot.\n- [ ] Provide resources and support for the use of GitHub Copilot during the event.\n- [ ] Encourage sharing of experiences and solutions among participants to foster a collaborative learning environment.\n- [ ] Collect feedback on the usability and effectiveness of GitHub Copilot during the hackathon.\n- [ ] Award prizes for innovative use of GitHub Copilot, best overall project, and other categories to incentivize participation.\n- [ ] Offer follow-up resources and learning opportunities post-event to maintain engagement and encourage continued use of AI coding tools.\n\n## Useful resources\n\n- [GitHub Copilot Workshop Example](https://github.github.com/copilot-workshop/en/index.html#0) - The sample workshop by Hubbers\n- [Hackathon Planning Guide](https://hackathon.guide/) - A third-party comprehensive guide on how to plan and execute a successful hackathon",
+                "assignees": {
+                  "totalCount": 0,
+                  "nodes": []
+                },
+                "createdAt": "2024-05-20T05:54:04Z"
+              },
+              "fieldValues": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "💻 Conduct hands-on / hackathon to let people feel the latest AI coding",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9VA",
+                        "name": "Title"
+                      }
+                    },
+                    "cursor": "MQ"
+                  },
+                  {
+                    "node": {
+                      "name": "Onboard",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9VI",
+                        "name": "Status"
+                      }
+                    },
+                    "cursor": "Mg"
+                  },
+                  {
+                    "node": {
+                      "text": "Copilot-ON05",
+                      "field": {
+                        "id": "PVTF_lAHOA8IS7s4Ah7zazgah9Vw",
+                        "name": "ID"
+                      }
+                    },
+                    "cursor": "Mw"
+                  },
+                  {
+                    "node": {
+                      "name": "👨‍👦‍👦 All Users",
+                      "field": {
+                        "id": "PVTSSF_lAHOA8IS7s4Ah7zazgah9V0",
+                        "name": "Audience"
+                      }
+                    },
+                    "cursor": "NA"
+                  }
+                ],
+                "pageInfo": {
+                  "hasNextPage": false,
+                  "startCursor": "MQ",
+                  "endCursor": "NA"
+                }
+              },
+              "id": "PVTI_lAHOA8IS7s4Ah7zazgPIt-I",
+              "databaseId": 63485922
+            }
+          ]
+        }
+      }
+    }
+  }
+}
